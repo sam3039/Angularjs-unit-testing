@@ -1,0 +1,24 @@
+{
+  "name": "nodeglobal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma start --single-run --no-auto-watch"
+  },
+  "author": "sameera",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.4",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.2",
+    "karma-ng-html2js-preprocessor": "*"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "touch-cli": "0.0.1"
+  }
+}
